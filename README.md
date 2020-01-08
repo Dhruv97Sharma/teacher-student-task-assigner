@@ -1,9 +1,6 @@
 # teacher-student-task-assigner
 a django based backend implementation of a teacher-student task assignment system
 
-# teacher-student-task-assigner
-a django based backend implementation of a teacher-student task assignment system
-
 # Task-Assignment-System
 
 Student's View
@@ -11,11 +8,6 @@ Student's View
 
 Teacher's view
 ![23](https://user-images.githubusercontent.com/46242531/70828811-2065ab80-1e12-11ea-9b1d-fa3f797e3a64.PNG)
-# New Features!
-
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
-
 
 
 ## Requirements
